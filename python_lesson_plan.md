@@ -143,4 +143,16 @@
 **Project Steps:**
 - Create routes and templates for product pages
 - Implement user registration and login
-- Enable shopping cart and mock checkout with database persistence
+- Enable shopping cart and mock checkout with database persistence.
+
+## Other Userful Resources
+**Resources**
+
+-https://pythonbasics.org/
+
+-https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+
+-https://www.youtube.com/watch?v=H2EJuAcrZYU
+
+-https://www.youtube.com/watch?v=ix9cRaBkVe0
+
