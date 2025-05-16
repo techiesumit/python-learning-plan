@@ -17,6 +17,13 @@
 - [ ] Error Handling and File I/O
 ### Week 5 - Final Project
 - [ ] Build a Command-Line To-Do List App
+### Week 6 - API Programming
+- [ ] Working with APIs in Python
+- [ ] Creating a REST API with Flask
+### Week 7 - E-commerce Site with Database
+- [ ] Setting Up Flask and SQLAlchemy
+- [ ] Building the E-commerce Functionality
+- [ ] E-commerce Site Finalization
 
 ---
 
@@ -93,3 +100,47 @@
 - Use argparse to parse CLI arguments
 - Store tasks in a JSON file
 - Allow adding, listing, and removing tasks
+
+## Week 6 - API Programming
+### Working with APIs in Python
+**Resources:**
+- https://realpython.com/api-integration-in-python/
+- https://www.youtube.com/watch?v=0sOvCWFmrtA (Python REST API tutorial)
+**Exercises:**
+- Fetch data from a public API (e.g., JSONPlaceholder)
+- Parse and display weather information using OpenWeatherMap API
+
+### Creating a REST API with Flask
+**Resources:**
+- https://flask.palletsprojects.com/en/2.0.x/
+- https://realpython.com/flask-by-example-part-1-project-setup/
+**Exercises:**
+- Create a basic Flask app with one endpoint
+- Build an API for managing tasks (GET, POST, PUT, DELETE)
+
+## Week 7 - E-commerce Site with Database
+### Setting Up Flask and SQLAlchemy
+**Resources:**
+- https://realpython.com/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/
+- https://docs.sqlalchemy.org/en/20/orm/tutorial.html
+**Exercises:**
+- Connect a Flask app to SQLite/PostgreSQL
+- Create models for products and users
+
+### Building the E-commerce Functionality
+**Resources:**
+- https://realpython.com/flask-by-example-part-3-text-processing/
+- https://www.fullstackpython.com/flask.html
+**Exercises:**
+- Create product listing and detail pages
+- Implement a shopping cart using session or database
+- Add a checkout flow (mocked payments)
+
+### E-commerce Site Finalization
+**Resources:**
+- https://www.digitalocean.com/community/tutorial_series/building-a-flask-application
+- https://realpython.com/tutorials/flask/
+**Project Steps:**
+- Create routes and templates for product pages
+- Implement user registration and login
+- Enable shopping cart and mock checkout with database persistence
